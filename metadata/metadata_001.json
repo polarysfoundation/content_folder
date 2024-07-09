@@ -1,0 +1,7 @@
+{
+    "name": "Test Token With Tax",
+    "description": "First Token Tax",
+    "symbol": "TTWT",
+    "decimals": 9,
+    "image": "https://raw.githubusercontent.com/polarysfoundation/logo_coin_test/fb443341bef581d5fdcfd6b4ae2bfa6ae544b115/buybot-logo.png"
+}
